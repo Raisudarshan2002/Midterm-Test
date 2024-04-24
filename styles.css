@@ -1,14 +1,11 @@
 /* styles.css */
 body {
-    font-family: 'Source Sans Pro', Arial, sans-serif;
-    line-height: 1.6;
-    margin: 20px;
-    color: #333;
-    background-color: #FF5722;
+    font-family: 'Source Sans Pro', Arial, sans-serif;/** Source sans Pro as requirement*/
+    background-color: bisque;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: Montserrat, Arial, sans-serif;
+h1, h2 {
+    font-family: Montserrat, Arial, sans-serif;/** A Montsterrat applied*/
 }
 
 nav ul {
